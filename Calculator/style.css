@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    padding: 12px 20px;
+    margin: 2px;
+    width: 66px;
+}
+.input{
+    font-size: 22px;
+    width: 244px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 80px;
+}
+
+.input font{
+    font-weight: 300;
+}
+.cancel{
+    padding: 12px;
+
+}
+
+.input-div{
+    /* background-color: red; */
+    width: 300px;
+}
